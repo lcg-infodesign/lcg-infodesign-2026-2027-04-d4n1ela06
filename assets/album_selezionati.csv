@@ -1,0 +1,101 @@
+id,artista,album,tracce,popolarita,durata_min,danzabilita,energia,popolarita_vs_totale_pct,durata_vs_totale_pct,danzabilita_vs_totale_pct,energia_vs_totale_pct
+1,Adele,19,10,58.9,3.7,0.574,0.334,177.4,96.9,102.2,52.7
+2,Adele,21,11,66.3,4.37,0.58,0.534,199.6,114.5,103.2,84.2
+3,Adele,25,11,68.1,4.4,0.496,0.5,205.1,115.3,88.3,78.8
+4,Adele,30,11,71.5,5.02,0.517,0.504,215.5,131.6,92.0,79.4
+5,Alter Bridge,Pawns & Kings,11,51.6,5.45,0.381,0.889,155.5,142.7,67.7,140.1
+6,Amy Winehouse,Back To Black (Deluxe Edition),10,69.3,3.43,0.583,0.455,208.7,89.9,103.7,71.8
+7,Arctic Monkeys,AM,12,77.3,3.48,0.538,0.639,232.9,91.2,95.6,100.7
+8,Arctic Monkeys,Favourite Worst Nightmare,11,68.3,3.18,0.517,0.868,205.6,83.3,92.0,136.7
+9,Arctic Monkeys,Humbug,10,60.6,3.93,0.414,0.766,182.5,103.0,73.7,120.8
+10,Arctic Monkeys,Suck It and See,13,57.4,3.34,0.424,0.85,172.9,87.6,75.4,134.0
+11,Arctic Monkeys,Tranquility Base Hotel & Casino,10,54.1,3.75,0.544,0.727,163.0,98.1,96.8,114.6
+12,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",13,65.2,3.17,0.486,0.83,196.3,82.9,86.4,130.8
+13,Audioslave,Audioslave,12,51.5,4.87,0.425,0.722,155.1,127.4,75.5,113.8
+14,Bad Bunny,Un Verano Sin Ti,13,88.1,3.33,0.793,0.632,265.3,87.2,141.1,99.6
+15,Bad Omens,THE DEATH OF PEACE OF MIND,11,61.0,3.78,0.48,0.802,183.7,98.9,85.3,126.5
+16,BLACKPINK,BORN PINK,13,74.5,3.1,0.697,0.594,224.5,81.1,124.0,93.6
+17,Bring Me The Horizon,Sempiternal (Expanded Edition),12,61.2,4.22,0.372,0.915,184.2,110.5,66.2,144.2
+18,Bring Me The Horizon,That's The Spirit,11,64.5,4.1,0.426,0.888,194.1,107.3,75.8,139.9
+19,BTS,Love Yourself 結 'Answer',20,65.2,3.9,0.644,0.746,196.2,102.2,114.5,117.5
+20,BTS,MAP OF THE SOUL : 7,18,68.6,3.72,0.618,0.732,206.7,97.5,110.0,115.4
+21,BTS,Proof,23,66.9,3.66,0.611,0.79,201.6,95.7,108.6,124.4
+22,Charlie Brown Jr.,Acústico (Ao Vivo),11,48.9,3.58,0.488,0.908,147.3,93.8,86.8,143.2
+23,Charlie Puth,CHARLIE,19,64.3,2.77,0.653,0.628,193.7,72.7,116.2,99.0
+24,Cigarettes After Sex,Cigarettes After Sex,10,68.3,4.71,0.427,0.442,205.7,123.3,76.0,69.6
+25,CoComelon,"CoComelon Kids Hits, Vol. 1",10,58.8,2.69,0.879,0.352,177.1,70.6,156.3,55.4
+26,CoComelon,"CoComelon Kids Hits, Vol. 2",10,54.0,2.75,0.818,0.322,162.7,72.1,145.5,50.7
+27,CoComelon,Nursery Rhymes by CoComelon,40,45.0,2.55,0.809,0.364,135.7,66.8,143.9,57.4
+28,Eddie Vedder,Into The Wild (Music For The Motion Picture),14,54.6,2.77,0.466,0.52,164.6,72.6,82.9,82.0
+29,Elvis Presley,Elvis 30 #1 Hits,13,56.8,2.62,0.559,0.558,171.2,68.5,99.5,87.9
+30,Elvis Presley,Elvis 30 #1 Hits (Expanded Edition),14,54.9,2.46,0.547,0.525,165.2,64.4,97.3,82.8
+31,Five Finger Death Punch,AfterLife,10,63.3,4.08,0.488,0.946,190.7,106.8,86.8,149.1
+32,Frank Ocean,Blonde,10,73.6,3.58,0.557,0.356,221.7,93.7,99.1,56.1
+33,Fujii Kaze,HELP EVER HURT NEVER,10,56.6,4.19,0.606,0.695,170.5,109.7,107.7,109.6
+34,G.E.M.,啓示錄,10,49.7,4.04,0.498,0.579,149.7,105.8,88.6,91.2
+35,Glee Cast,"Glee: The Music, Volume 4",10,47.8,3.64,0.57,0.707,144.0,95.2,101.4,111.5
+36,Hans Zimmer,Interstellar (Original Motion Picture Soundtrack) [Expanded Edition],17,56.8,4.49,0.207,0.085,171.0,117.6,36.8,13.4
+37,Henrique & Juliano,Ao Vivo No Ibirapuera,11,56.2,3.0,0.58,0.681,169.2,78.6,103.2,107.3
+38,Henrique & Juliano,Manifesto Musical (Ao Vivo),16,52.9,2.88,0.576,0.721,159.5,75.3,102.4,113.6
+39,Henrique & Juliano,Menos É Mais (Ao Vivo),13,53.0,2.84,0.668,0.629,159.6,74.4,118.8,99.1
+40,Hiroyuki Sawano,"""Attack on Titan"" Season 3 Original Soundtrack",10,48.1,3.71,0.441,0.629,144.9,97.1,78.5,99.2
+41,Hiroyuki Sawano,"TV Anime ""Attack on Titan"" Original Soundtrack",10,52.1,4.75,0.452,0.614,156.9,124.3,80.4,96.7
+42,I Prevail,TRUE POWER,13,61.3,3.08,0.476,0.887,184.7,80.8,84.7,139.8
+43,Iguinho e Lulinha,Simbora pra Vaquejada,17,46.5,3.17,0.579,0.848,140.2,83.1,102.9,133.6
+44,Jay Chou,最偉大的作品,10,56.7,3.98,0.587,0.611,170.8,104.2,104.4,96.3
+45,Jota Quest,Acústico Jota Quest,11,45.2,4.37,0.601,0.597,136.1,114.5,107.0,94.1
+46,JPEGMAFIA,LP!,11,50.2,2.7,0.647,0.796,151.2,70.7,115.1,125.5
+47,Jóhann Jóhannsson,The Theory of Everything (Original Motion Picture Soundtrack),13,57.6,1.89,0.365,0.115,173.5,49.4,64.9,18.1
+48,Kato,Naruto Vibes,10,45.3,1.84,0.605,0.436,136.5,48.1,107.6,68.8
+49,Kato,Sleep Anime Lofi Beats,20,58.2,1.29,0.477,0.085,175.3,33.7,84.8,13.3
+50,Lamb of God,Omens,11,53.2,4.08,0.434,0.981,160.2,106.9,77.2,154.6
+51,Lauana Prado,Raiz (Ao Vivo),19,46.6,3.78,0.626,0.752,140.5,99.1,111.3,118.5
+52,Linkin Park,Hybrid Theory,11,45.9,3.21,0.542,0.91,138.3,83.9,96.5,143.4
+53,Linkin Park,Hybrid Theory (20th Anniversary Edition),11,50.7,3.21,0.547,0.907,152.8,83.9,97.4,142.9
+54,Linkin Park,Hybrid Theory (Bonus Edition),14,66.6,3.32,0.555,0.895,200.7,87.0,98.6,141.0
+55,Linkin Park,LIVING THINGS,11,60.1,3.26,0.527,0.921,181.0,85.4,93.7,145.1
+56,Linkin Park,Meteora,10,60.5,3.13,0.513,0.92,182.2,81.9,91.3,144.9
+57,Linkin Park,Meteora (Bonus Edition),14,59.9,3.1,0.515,0.929,180.3,81.2,91.6,146.5
+58,Linkin Park,Minutes to Midnight,11,49.8,3.8,0.562,0.714,150.1,99.6,100.0,112.5
+59,Ludovico Einaudi,Underwater,12,60.1,4.01,0.287,0.012,181.0,104.9,51.0,1.8
+60,Maneva,Mundo Novo,10,48.5,2.73,0.736,0.581,146.1,71.5,131.0,91.6
+61,Massive Attack,Mezzanine,10,52.7,5.95,0.605,0.569,158.7,155.9,107.6,89.7
+62,Mumuzinho,Resenha Do Mumu (Ao Vivo),12,45.7,3.35,0.541,0.787,137.6,87.8,96.2,124.1
+63,Murilo Huff,Ao Vivão 2,10,55.0,5.34,0.435,0.568,165.7,139.9,77.3,89.5
+64,My Chemical Romance,The Black Parade,12,69.6,3.69,0.37,0.822,209.6,96.7,65.9,129.6
+65,Nirvana,In Utero - 20th Anniversary Remaster,10,60.4,3.5,0.42,0.672,181.9,91.7,74.8,105.9
+66,Nirvana,MTV Unplugged In New York,14,62.1,3.85,0.572,0.59,187.0,100.9,101.7,93.0
+67,Nirvana,Nevermind (Remastered),12,65.4,3.86,0.402,0.85,197.0,101.2,71.5,133.9
+68,OneRepublic,Human (Deluxe),15,54.0,3.16,0.567,0.599,162.7,82.8,100.8,94.4
+69,OneRepublic,Native,17,59.1,3.98,0.59,0.748,178.1,104.1,104.9,118.0
+70,OneRepublic,Oh My My,10,54.0,3.74,0.487,0.662,162.7,98.0,86.7,104.3
+71,Peppa Pig,My First Album,10,51.3,2.48,0.736,0.498,154.5,64.9,130.8,78.4
+72,Pink Floyd,The Division Bell,10,53.8,6.05,0.443,0.477,162.1,158.4,78.8,75.2
+73,Pink Floyd,The Wall,21,58.0,3.25,0.467,0.267,174.6,85.2,83.0,42.1
+74,Pink Guy,Pink Season,18,45.5,2.57,0.78,0.551,137.1,67.4,138.7,86.8
+75,Porter Robinson,Nurture,11,50.6,4.04,0.507,0.607,152.5,105.7,90.2,95.7
+76,Portishead,Dummy,11,55.5,4.46,0.595,0.462,167.0,116.8,105.9,72.8
+77,Raimu,The Spirit Within,10,59.7,2.99,0.662,0.281,179.8,78.3,117.8,44.3
+78,Rammstein,Mutter,10,62.4,4.01,0.565,0.867,188.0,105.0,100.5,136.7
+79,Rammstein,Rammstein,11,64.2,4.22,0.535,0.803,193.3,110.5,95.2,126.5
+80,Rammstein,"Reise, Reise",10,58.9,4.39,0.548,0.807,177.4,114.9,97.4,127.2
+81,Rammstein,Zeit,12,67.3,4.13,0.564,0.767,202.8,108.1,100.2,120.9
+82,Red Hot Chili Peppers,Return of the Dream Canteen,17,63.7,4.42,0.581,0.711,191.9,115.8,103.3,112.1
+83,Sidhu Moose Wala,Moosetape,14,62.8,3.7,0.662,0.714,189.1,96.9,117.7,112.5
+84,Slaughter to Prevail,Kostolom,10,52.1,4.08,0.359,0.982,156.9,106.7,63.8,154.8
+85,Sorriso Maroto,É Diferente (Ao Vivo),12,49.3,3.76,0.563,0.766,148.6,98.4,100.1,120.7
+86,The Beatles,1 (Remastered),22,59.7,2.8,0.531,0.698,179.8,73.3,94.5,110.0
+87,The Beatles,Abbey Road (Remastered),16,62.4,2.94,0.506,0.472,187.9,77.0,90.1,74.4
+88,The Beatles,Revolver (Remastered),12,59.2,2.51,0.489,0.522,178.2,65.6,87.0,82.3
+89,The Beatles,The Beatles (Remastered),12,61.2,2.89,0.536,0.473,184.2,75.7,95.3,74.6
+90,The Devil Wears Prada,Color Decay,12,56.0,3.71,0.441,0.873,168.7,97.1,78.4,137.6
+91,The Prodigy,The Fat of the Land,10,51.2,5.65,0.601,0.941,154.2,147.9,107.0,148.4
+92,The Strokes,Is This It,11,58.7,3.26,0.514,0.783,176.9,85.2,91.5,123.5
+93,Thiaguinho,Meu Nome É Thiago André (Ao Vivo),19,46.3,3.7,0.534,0.567,139.4,96.8,94.9,89.4
+94,Travis Scott,ASTROWORLD,11,73.8,3.41,0.698,0.647,222.4,89.2,124.2,102.0
+95,Weißes Rauschen HD,Weißer Lärm Baby Schlaf (Meeresrauschen),16,50.4,3.15,0.084,0.438,151.7,82.5,15.0,69.1
+96,XXXTENTACION,?,11,73.0,2.01,0.688,0.448,219.9,52.7,122.3,70.6
+97,Yasuharu Takanashi,NARUTO-ナルト- 疾風伝 オリジナル・サウンドトラック,11,47.6,2.36,0.309,0.475,143.5,61.8,55.0,74.9
+98,Yiruma,The Best - Reminiscent 10th Anniversary,14,48.6,4.25,0.402,0.175,146.5,111.2,71.5,27.7
+99,YUNGBLUD,YUNGBLUD,10,53.9,2.66,0.517,0.835,162.4,69.7,91.9,131.6
+100,Ícaro e Gilmar,Sextou BB 4 Completo (Ao Vivo em Goiânia),13,47.3,3.92,0.502,0.612,142.5,102.7,89.2,96.5
